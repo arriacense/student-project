@@ -8,4 +8,4 @@ Trabajo
 
 # instrucciones de instalación 
 
-Se feliz
+Se feliz y aprende
